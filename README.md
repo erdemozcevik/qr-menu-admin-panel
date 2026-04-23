@@ -23,3 +23,5 @@ An admin-based QR menu management panel built with React and Tailwind CSS.
 npm install
 npm run dev
 ```
+## Preview
+[![QR Menu](preview.png)](preview.png)
